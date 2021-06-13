@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ucl.app_vistoria">
+    package="com.example.ez_vistors">
    <application
-        android:label="app_vistoria"
+        android:label="ez_vistors"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

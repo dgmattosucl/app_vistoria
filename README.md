@@ -1,6 +1,6 @@
-# app_vistoria
+# ez_vistors
 
-Aplicativos - Mobile Apps
+A new Flutter application.
 
 ## Getting Started
 
