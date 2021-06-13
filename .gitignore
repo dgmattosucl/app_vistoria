@@ -29,7 +29,6 @@
 .packages
 .pub-cache/
 .pub/
-.idea/
 /build/
 
 # Web related
